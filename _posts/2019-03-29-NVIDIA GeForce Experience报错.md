@@ -17,7 +17,9 @@ categories:
 
 ![]({{site.url}}/assets/img/20190329204501.jpg)
 
-​	**2.**若卡在登录界面进不进去，可尝试启动“NVIDIA NetworkService Container”服务。具体设置参考上文。   
+​	**2.**若卡在登录界面进不进去，可尝试启动“NVIDIA NetworkService Container”服务。具体设置参考上文。
+
+
 
 
 
