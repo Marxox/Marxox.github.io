@@ -1,4 +1,4 @@
----
+﻿---
 title: NVIDIA GeForce Experience报错
 date: 2019-03-29 20:06:03
 categories:
@@ -20,7 +20,6 @@ categories:
 ​	**2.**若卡在登录界面进不进去，可尝试启动“NVIDIA NetworkService Container”服务。具体设置参考上文。
 
 &nbsp;
-
 ***
 
 ### 2019.4.2更新
