@@ -128,10 +128,10 @@ jiathis:
   tsina: ## e.g. 2176287895 Your weibo id,It will be used in share button.
 
 #### Analytics
-google_analytics: UA-138134988-1
-  enable: false
-  id:        ## e.g. UA-46321946-2 your google analytics ID.
-  site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
+google_analytics:
+  enable: enable
+  id: UA-138134988-1
+  site: https://marxox.github.io/
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
